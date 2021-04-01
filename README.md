@@ -2,6 +2,10 @@
 
 DES加密方法，不使用向量，只使用key进行加密
 
+# 效果图
+![C6890CFF-AE6F-415B-9412-9DBDC244BC27](https://user-images.githubusercontent.com/36223198/113258490-94291180-92fe-11eb-9ecb-41c3b9742897.png)
+
+
 ## Getting Started
 
 ### Add dependency
