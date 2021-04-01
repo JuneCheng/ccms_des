@@ -1,6 +1,6 @@
 # ccms_des
 
-移动巡检DES加密方法
+DES加密方法，不使用向量，只使用key进行加密
 
 ## Getting Started
 
