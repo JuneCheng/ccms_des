@@ -12,7 +12,7 @@ DES加密方法，不使用向量，只使用key进行加密
 
 ```yaml
 dependencies:
-  flutter_des: ^0.0.1  #latest version
+  flutter_des: ^0.0.2  #latest version
 ```
 
 ### Example
