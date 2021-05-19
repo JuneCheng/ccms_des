@@ -1,8 +1,7 @@
 name: ccms_des
 description: A new flutter plugin project.
 version: 0.0.2
-author: JuneCheng
-homepage:
+homepage: https://github.com/JuneCheng/ccms_des
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
